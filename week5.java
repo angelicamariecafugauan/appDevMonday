@@ -7,6 +7,7 @@ public class week5 {
 
         //lastname.display();
 
+        Bantilo.display();
         Lucero.display();
 
         Jalique.display();
