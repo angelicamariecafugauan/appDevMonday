@@ -1,13 +1,13 @@
 import java.util.Scanner;
 
-public class Walo {
+public class Jalosjos {
     public static void display() {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter your age: ");
         int age = scanner.nextInt();
         int nextYearAge = age + 1;
        
-        System.out.println("Hello! This is Walo contributing to the project.");
+        System.out.println("Hello! This is Jalosjos contributing to the project.");
         System.out.println("Your age next year will be: " + nextYearAge);
        
         scanner.close();

@@ -1,5 +1,3 @@
-
-
 public class Santos {
     public static void display() {
         int age = 20; // Replace with user input if necessary
@@ -8,3 +6,4 @@ public class Santos {
         System.out.println("Next year, I will be: " + (age + 1));
     }
 }
+
