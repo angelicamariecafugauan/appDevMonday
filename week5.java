@@ -64,12 +64,17 @@ public class week5 {
 
 	Aldama.Display();
 
+    
+    Catalan.Display();
+
+
     Demafelis.display();
 
     Sabangan.Display();
 
 
 	      Lamac.Display();
+
 
 
 
