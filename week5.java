@@ -1,12 +1,15 @@
 public class week5 {
     public static void main(String[] args) {
         System.out.println("Collaborative Java Project\n");
-       
+
         // Call each student's method
         // More students will add their method calls here...
 
 
-        //lastname.display();
+        // lastname.display();
+
+
+
 
         Velayo.display();
 
@@ -20,7 +23,6 @@ public class week5 {
 
         Jalique.display();
 
-
         Lanzar.display();
 
         Lluz.display();
@@ -32,7 +34,6 @@ public class week5 {
         Plena.display();
         Palomas.display();
 
-
         AlimMaria.display();
 
         Pergis.display();
@@ -43,6 +44,10 @@ public class week5 {
 
         Esponga.display();
 
+        Corporal.display();
+
+
+        Lim.Display();
 
        Corporal.display();
 
@@ -74,6 +79,7 @@ public class week5 {
 
 
 
+        Mirandilla.display();
 
     }
 }
