@@ -74,11 +74,15 @@ public class week5 {
 
 	Aldama.Display();
 
+	Arenas.display();
+
+
 	Abagat.Display();
 
 	Ringor.display();
 
         Gutierrez.Display();
+
 
 
 
