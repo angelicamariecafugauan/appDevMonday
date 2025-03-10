@@ -58,11 +58,12 @@ public class week5 {
 
 	Aldama.Display();
 
+    Demafelis.display();
+
     Sabangan.Display();
 
 
 	      Lamac.Display();
-
 
 
 
