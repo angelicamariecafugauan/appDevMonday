@@ -1,7 +1,7 @@
-public class Lim {
+public class Velasco {
     public static void display() {
-        int age = 19; // Replace with user input if necessary
-        System.out.println("Hello! This is Lim contributing to the project.");
+        int age = 20;
+        System.out.println("Hello! This is Velasco contributing to the project.");
         System.out.println("My current age is: " + age);
         System.out.println("Next year, I will be: " + (age + 1));
     }
