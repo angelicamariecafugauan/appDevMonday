@@ -64,6 +64,9 @@ public class week5 {
 
 	Aldama.Display();
 
+
+    Cafugauan.Display();
+
     
     Catalan.Display();
 
@@ -74,6 +77,7 @@ public class week5 {
 
 
 	      Lamac.Display();
+
 
 
 
