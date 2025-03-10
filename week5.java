@@ -115,7 +115,7 @@ public class week5 {
 
 
 
-    Cafugauan.Display();
+    Cafugauan.display();
 
 
     
