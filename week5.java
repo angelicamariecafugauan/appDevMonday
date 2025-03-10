@@ -69,10 +69,15 @@ public class week5 {
 	    
 
 	Aldama.Display();
+
+	Padohinog.Display();
+	    
+
         Mendones.Display();
 
         SanAgustin.Display();
 	Sese.Display();	
+
 
 
     Cafugauan.Display();
