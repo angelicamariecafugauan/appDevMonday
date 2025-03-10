@@ -65,6 +65,10 @@ public class week5 {
 	Aldama.Display();
 
 
+        SanAgustin.Display();
+	Sese.Display();	
+
+
     Cafugauan.Display();
 
     
@@ -77,6 +81,7 @@ public class week5 {
 
 
 	      Lamac.Display();
+
 
 
 
