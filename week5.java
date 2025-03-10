@@ -16,6 +16,9 @@ public class week5 {
 
 
 
+        Bantilo.display();
+
+
 
 
         Velayo.display();
@@ -25,6 +28,7 @@ public class week5 {
 
         David.display();
       
+
         Lucero.display();
 
         Jalique.display();
