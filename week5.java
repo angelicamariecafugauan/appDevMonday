@@ -74,6 +74,9 @@ public class week5 {
 
 	Aldama.Display();
 
+        Gutierrez.Display();
+
+
 	Villanueva.Display();
 
 
@@ -94,6 +97,7 @@ public class week5 {
 
 
     Demafelis.display();
+
 
 
     Sabangan.Display();
