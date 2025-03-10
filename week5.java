@@ -5,8 +5,20 @@ public class week5 {
         // Call each student's method
         // More students will add their method calls here...
 
+
         // lastname.display();
 
+
+
+
+        Velayo.display();
+
+
+        Lluz.display();
+
+
+
+      
         Lucero.display();
 
         Jalique.display();
@@ -25,14 +37,50 @@ public class week5 {
         AlimMaria.display();
 
         Pergis.display();
+        Samson.display();
+
+
+        Velayo.display();
 
         Esponga.display();
 
         Corporal.display();
 
+
         Lim.Display();
+
+       Corporal.display();
+
+	Lim.Display();
+
+
+
+      Santos.display();
+
+	Jalosjos.Display();
+
+	Babon.Display();
+	    
+
+	Aldama.Display();
+
+    Demafelis.display();
+
+    Sabangan.Display();
+
+
+	      Lamac.Display();
+
+
+
+
+
+
+
+
 
         Mirandilla.display();
 
     }
 }
+
