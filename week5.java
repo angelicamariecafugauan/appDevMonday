@@ -60,6 +60,13 @@ public class week5 {
 
     Demafelis.display();
 
+    Sabangan.Display();
+
+
+	      Lamac.Display();
+
+
+
 
 
 
