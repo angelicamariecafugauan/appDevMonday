@@ -94,7 +94,10 @@ public class week5 {
 	Padohinog.Display();
 	    
 
-        Mendones.Display();
+
+	Aldama.Display();
+	RaffyNaul.display();
+     Mendones.Display();
 
         SanAgustin.Display();
 	Sese.Display();	
@@ -102,6 +105,7 @@ public class week5 {
 
 
     Cafugauan.Display();
+
 
     
     Catalan.Display();
