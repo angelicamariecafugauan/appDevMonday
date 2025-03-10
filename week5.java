@@ -69,7 +69,7 @@ public class week5 {
 	    
 
 	Aldama.Display();
-
+        Mendones.Display();
 
         SanAgustin.Display();
 	Sese.Display();	
