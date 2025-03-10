@@ -58,7 +58,11 @@ public class week5 {
 
 	Aldama.Display();
 
+    Sabangan.Display();
+
+
 	      Lamac.Display();
+
 
 
 
