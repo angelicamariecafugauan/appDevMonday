@@ -70,6 +70,9 @@ public class week5 {
 
 	Aldama.Display();
 
+	Villanueva.Display();
+
+
 	Padohinog.Display();
 	    
 
@@ -87,6 +90,7 @@ public class week5 {
 
 
     Demafelis.display();
+
 
     Sabangan.Display();
 
