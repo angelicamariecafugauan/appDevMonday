@@ -116,7 +116,7 @@ public class week5 {
 
 	      Lamac.Display();
 
-
+       Mendoza.display();
 
 
 
